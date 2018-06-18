@@ -1,0 +1,5 @@
+# object files
+*.o
+
+# OS-specific files
+.DS_Store
